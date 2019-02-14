@@ -1,0 +1,10 @@
+CRUD with postman
+@Get List 
+
+@Get By ID
+
+@ Insert
+tipe data post, menu body, check raw, ganti tipe menjadi Json
+
+@ Insert
+tipe data post, menu body, check raw, ganti tipe menjadi Json

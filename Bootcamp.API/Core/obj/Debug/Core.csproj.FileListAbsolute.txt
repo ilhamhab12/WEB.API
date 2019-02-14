@@ -1,0 +1,20 @@
+E:\MII\Project Coding\Bootcamp.API\Core\bin\Debug\Core.exe.config
+E:\MII\Project Coding\Bootcamp.API\Core\bin\Debug\Core.exe
+E:\MII\Project Coding\Bootcamp.API\Core\bin\Debug\Core.pdb
+E:\MII\Project Coding\Bootcamp.API\Core\bin\Debug\EntityFramework.dll
+E:\MII\Project Coding\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Project Coding\Bootcamp.API\Core\bin\Debug\EntityFramework.xml
+E:\MII\Project Coding\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Project Coding\Bootcamp.API\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\MII\Project Coding\Bootcamp.API\Core\obj\Debug\Core.exe
+E:\MII\Project Coding\Bootcamp.API\Core\obj\Debug\Core.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\bin\Debug\Core.exe.config
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\bin\Debug\Core.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\bin\Debug\Core.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\obj\Debug\Core.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\obj\Debug\Core.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache

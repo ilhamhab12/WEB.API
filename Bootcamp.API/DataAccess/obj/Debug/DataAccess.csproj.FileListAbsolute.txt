@@ -1,0 +1,28 @@
+E:\MII\Project Coding\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe.config
+E:\MII\Project Coding\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe
+E:\MII\Project Coding\Bootcamp.API\DataAccess\bin\Debug\DataAccess.pdb
+E:\MII\Project Coding\Bootcamp.API\DataAccess\bin\Debug\Core.exe
+E:\MII\Project Coding\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.dll
+E:\MII\Project Coding\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Project Coding\Bootcamp.API\DataAccess\bin\Debug\Core.pdb
+E:\MII\Project Coding\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.xml
+E:\MII\Project Coding\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Project Coding\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\MII\Project Coding\Bootcamp.API\DataAccess\obj\Debug\DataAccess.Migrations.addSupplierModel.resources
+E:\MII\Project Coding\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+E:\MII\Project Coding\Bootcamp.API\DataAccess\obj\Debug\DataAccess.exe
+E:\MII\Project Coding\Bootcamp.API\DataAccess\obj\Debug\DataAccess.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe.config
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\bin\Debug\DataAccess.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\bin\Debug\Core.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\bin\Debug\Core.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\obj\Debug\DataAccess.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\obj\Debug\DataAccess.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\obj\Debug\DataAccess.Migrations.addItem.resources
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache

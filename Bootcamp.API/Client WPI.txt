@@ -1,0 +1,13 @@
+New Client Mode
+1. create new project, web, MVC template, change autentification > no ......
+2. Add controller <SupplierController>
+piih MVC 5 COntroller Empty
+3. klik kanan index() add view [Gambar]
+4. Buat INdex
+5. buat javascript di folder Script u/ meng-Load data 
+6. lokasi script masukan dalam js nya (Drag drop dari solution explore)
+7. Klik kanan pada master project, properties, 
+8. pilih multiple startup project, 
+9. set Client dan Bootcamp.API menjadi Start (untuk menjalankan 2 project langsung, 'client', 'service')
+10. Run
+11. 

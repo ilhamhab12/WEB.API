@@ -1,0 +1,330 @@
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\csc.exe
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\System.Collections.Immutable.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\System.Reflection.Metadata.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\vbc.exe
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\VBCSCompiler.exe
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\roslyn\VBCSCompiler.exe.config
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Bootcamp.API.dll.config
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Bootcamp.API.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Bootcamp.API.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Antlr3.Runtime.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\BussinessLogic.exe
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Common.exe
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\CommonServiceLocator.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Core.exe
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\DataAccess.exe
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\EntityFramework.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\EntityFramework.SqlServer.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Google.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Web.Infrastructure.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Newtonsoft.Json.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Owin.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Net.Http.Formatting.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.ValueTuple.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Cors.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Helpers.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Cors.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Owin.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.WebHost.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Mvc.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Optimization.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Razor.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Deployment.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Razor.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Abstractions.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Configuration.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Container.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.Configuration.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.RegistrationByConvention.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.ServiceLocation.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.WebApi.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\WebActivatorEx.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\WebGrease.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\BussinessLogic.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Common.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Core.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\DataAccess.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\CommonServiceLocator.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\EntityFramework.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\EntityFramework.SqlServer.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Net.Http.Formatting.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.ValueTuple.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Cors.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.WebHost.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Newtonsoft.Json.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Helpers.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Mvc.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Optimization.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Razor.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Deployment.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Razor.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Abstractions.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Configuration.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Container.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.Configuration.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.RegistrationByConvention.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Unity.ServiceLocation.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Antlr3.Runtime.pdb
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Google.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Owin.xml
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\obj\Debug\Bootcamp.API.csprojResolveAssemblyReference.cache
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\obj\Debug\Bootcamp.API.dll
+E:\MII\Project Coding\Bootcamp.API\Bootcamp.API\obj\Debug\Bootcamp.API.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\csc.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\System.Collections.Immutable.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\System.Reflection.Metadata.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\vbc.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\VBCSCompiler.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\roslyn\VBCSCompiler.exe.config
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Bootcamp.API.dll.config
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Bootcamp.API.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Bootcamp.API.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Antlr3.Runtime.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\BussinessLogic.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Common.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\CommonServiceLocator.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Core.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\DataAccess.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\EntityFramework.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\EntityFramework.SqlServer.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Google.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Web.Infrastructure.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Newtonsoft.Json.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Owin.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Net.Http.Formatting.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.ValueTuple.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Cors.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Helpers.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Cors.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Owin.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.WebHost.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Mvc.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Optimization.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Razor.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Deployment.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Razor.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Abstractions.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Configuration.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Container.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.Configuration.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.RegistrationByConvention.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.ServiceLocation.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.WebApi.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\WebActivatorEx.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\WebGrease.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\BussinessLogic.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Common.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Core.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\DataAccess.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\CommonServiceLocator.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\EntityFramework.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\EntityFramework.SqlServer.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Net.Http.Formatting.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.ValueTuple.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Cors.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.WebHost.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Newtonsoft.Json.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Helpers.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Mvc.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Optimization.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Razor.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Deployment.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Razor.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Abstractions.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Configuration.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Container.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.Configuration.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.RegistrationByConvention.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Unity.ServiceLocation.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Antlr3.Runtime.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Google.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Owin.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\obj\Debug\Bootcamp.API.csprojResolveAssemblyReference.cache
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\obj\Debug\Bootcamp.API.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\Bootcamp.API\obj\Debug\Bootcamp.API.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\csc.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\vbc.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\VBCSCompiler.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Bootcamp.API.dll.config
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Bootcamp.API.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Bootcamp.API.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Antlr3.Runtime.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\BussinessLogic.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Common.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\CommonServiceLocator.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Core.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\DataAccess.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\EntityFramework.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\EntityFramework.SqlServer.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Google.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Newtonsoft.Json.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Owin.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Net.Http.Formatting.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.ValueTuple.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Cors.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Helpers.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Cors.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Owin.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.WebHost.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Mvc.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Optimization.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Razor.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Deployment.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Razor.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Abstractions.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Configuration.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Container.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.Configuration.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.RegistrationByConvention.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.ServiceLocation.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.WebApi.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\WebActivatorEx.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\WebGrease.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\BussinessLogic.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Common.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Core.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\DataAccess.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\CommonServiceLocator.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\EntityFramework.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\EntityFramework.SqlServer.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Net.Http.Formatting.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.ValueTuple.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Cors.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.WebHost.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Newtonsoft.Json.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Helpers.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Mvc.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Optimization.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Razor.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Deployment.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.WebPages.Razor.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Abstractions.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Configuration.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Container.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.Interception.Configuration.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.RegistrationByConvention.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Unity.ServiceLocation.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Antlr3.Runtime.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Google.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\bin\System.Web.Http.Owin.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\obj\Debug\Bootcamp.API.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\obj\Debug\Bootcamp.API.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\Bootcamp.API\obj\Debug\Bootcamp.API.pdb

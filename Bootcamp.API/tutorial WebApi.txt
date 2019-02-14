@@ -1,0 +1,42 @@
+Web Api
+1. create new project > web > web API > 
+2. buat windows console ( add new project) => BussinessLogic, Common, Core, DataAccess 
+3. install pakage entity framework, webApi.Cors(10M) = hanya project Bootcamp.API, Unity.WebAPI (2.58M)= hanya project Bootcamp.API
+4. buat db dengan cara baru
+di app config buat : 
+<connectionStrings>
+  <add name="MyContext" connectionString="data source=(localdb)\MSSQLLocalDB;initial catalog=BootcampWebApi;integrated security=true" providerName="System.Data.SqlClient"/>
+</connectionStrings>
+
+    COPY SEMUA DALAM SEMUA PROJECT (connectionstring) 
+5. Buat BaseModel (Core), Context, Model, Param dalam data access
+6. Jangan Lupa Buat Add Reference (Untuk bisa menambahkan reference di lain project)
+7. Default Project di ganti "DataAccess", lalu enable-migrations, add-migration <name>, update-database
+
+7.5. Add Controller, pilih web API 2 Controller with read/write. 
+
+8. edit UnityConfig.cs(
+//this is service area
+            container.RegisterType<ISupplierService, SupplierService>();
+
+//this is repository area
+            container.RegisterType<ISupplierRepository, SupplierRepository>();
+) 
+dan 
+Global.asax.cs (Tambah ini{
+
+UnityConfig.RegisterComponents();
+}
+)
+
+9. Tambah di WebApiConfig.cs 
+(
+config.EnableCors();
+)
+
+10. Buat Controller
+tambah ini setiap controller
+ [EnableCors(origins: "*", headers:"*", methods:"*")]
+
+11. jika ingin melihat run program copy link nya(http://localhost:5672/api/Suppliers)
+Kemu

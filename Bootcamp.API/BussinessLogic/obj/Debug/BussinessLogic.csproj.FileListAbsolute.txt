@@ -1,0 +1,48 @@
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe.config
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.pdb
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\Common.exe
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\Core.exe
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.exe
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.dll
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\Common.pdb
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\Core.pdb
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.pdb
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.xml
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.exe
+E:\MII\Project Coding\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe.config
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\Common.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\Core.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\Common.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\Core.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.pdb
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.exe
+E:\MII\Project Coding\WEB-API\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe.config
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\Common.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\Core.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\Common.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\Core.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.pdb
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.exe
+D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.pdb
