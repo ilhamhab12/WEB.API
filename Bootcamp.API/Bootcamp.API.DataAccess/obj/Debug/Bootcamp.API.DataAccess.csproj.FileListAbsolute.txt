@@ -1,0 +1,14 @@
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\bin\Debug\Bootcamp.API.DataAccess.exe.config
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\bin\Debug\Bootcamp.API.DataAccess.exe
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\bin\Debug\Bootcamp.API.DataAccess.pdb
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\bin\Debug\Bootcamp.API.Core.exe
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\bin\Debug\EntityFramework.dll
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\bin\Debug\Bootcamp.API.Core.pdb
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\bin\Debug\EntityFramework.xml
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\obj\Debug\Bootcamp.API.DataAccess.csprojResolveAssemblyReference.cache
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\obj\Debug\Bootcamp.API.DataAccess.exe
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\obj\Debug\Bootcamp.API.DataAccess.pdb
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\obj\Debug\Bootcamp.API.DataAccess.Migrations.addSupplier3.resources
+c:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.DataAccess\obj\Debug\Bootcamp.API.DataAccess.csproj.GenerateResource.Cache
