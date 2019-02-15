@@ -1,5 +1,6 @@
 ﻿$(document).ready(function () {
     LoadIndexSupplier();
+    LoadHiddenNotification();
     $('#table').DataTable({
         "ajax": LoadIndexSupplier()
     })
@@ -118,3 +119,45 @@ function ClearScreen() {
         $('#Save').show();
     });
 };
+
+function ValidationSave() {
+    // asumsi semua text box valid
+    var isAllValid = true
+
+    //cek textbox name
+    if ($('#Name').val() == "" || ($('#Name').val() == " ")) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Name').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Name').siblings('span.error').css('visibility', 'hidden');
+    }
+
+    //kalau semua fild terisi
+    if (isAllValid) {
+        Save();
+    }
+}
+
+function ValidationEdit() {
+    // asumsi semua text box valid
+    var isAllValid = true
+
+    //cek textbox name
+    if ($('#Name').val() == "" || ($('#Name').val() == " ")) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Name').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Name').siblings('span.error').css('visibility', 'hidden');
+    }
+
+    //kalau semua fild terisi
+    if (isAllValid) {
+        Edit();
+    }
+}
+
+function LoadHiddenNotification() {
+    $('#Name').siblings('span.error').css('visibility', 'hidden');
+}

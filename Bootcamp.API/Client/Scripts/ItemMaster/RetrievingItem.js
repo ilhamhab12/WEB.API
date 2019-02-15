@@ -1,6 +1,7 @@
 ﻿$(document).ready(function () {
     LoadIndexItem();
-   LoadSupplierCombo();
+    LoadSupplierCombo();
+    LoadHiddenNotification();
     $('#table').DataTable({
         "ajax": LoadIndexItem()
     })
@@ -47,8 +48,6 @@ function LoadSupplierCombo() {
         }
     });
 }
-
-
 
 function Save() {
     var item = new Object();
@@ -165,3 +164,105 @@ function ClearScreen() {
         $('#Save').show();
     });
 };
+
+function ValidationSave() {
+    // asumsi semua text box valid
+    var isAllValid = true
+
+    //cek textbox name
+    if ($('#Name').val() == "" || ($('#Name').val() == " ")) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Name').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Name').siblings('span.error').css('visibility', 'hidden');
+    }
+
+    // cek textbox price
+    if ($('#Price').val() == "" || ($('#Price').val() == " ")) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Price').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Price').siblings('span.error').css('visibility', 'hidden');
+    }
+    
+    // cek textbox stock
+    if ($('#Stock').val() == "" || ($('#Stock').val() == " ")) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Stock').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Stock').siblings('span.error').css('visibility', 'hidden');
+    }
+    
+    // cek drop down supplier
+    if ($('#Suppliers').val() == "Choose Supplier" || ($('#Suppliers').val() == "0")) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Suppliers').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Suppliers').siblings('span.error').css('visibility', 'hidden');
+    }
+
+    //kalau semua fild terisi
+    if (isAllValid) {
+        Save();
+    }
+}
+
+function ValidationEdit() {
+    
+    // asumsi semua text box valid
+    var isAllValid = true
+
+    //cek textbox name
+    if ($('#Name').val() == "" || ($('#Name').val() == " ")) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Name').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Name').siblings('span.error').css('visibility', 'hidden');
+    }
+
+    // cek textbox price
+    if ($('#Price').val() == "" || ($('#Price').val() == " ")) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Price').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Price').siblings('span.error').css('visibility', 'hidden');
+    }
+
+    // cek textbox stock
+    if ($('#Stock').val() == "" || ($('#Stock').val() == " ")) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Stock').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Stock').siblings('span.error').css('visibility', 'hidden');
+    }
+
+    // cek drop down supplier
+    if ($('#Suppliers').val() == "Choose Supplier" || ($('#Suppliers').val() == 0) || ($('#Suppliers').val() == null)) {
+        isAllValid = false; //kalau textbox nama kosong maka
+        $('#Suppliers').siblings('span.error').css('visibility', 'visible'); //notifikasi validasi muncul
+    }
+    else {
+        $('#Suppliers').siblings('span.error').css('visibility', 'hidden');
+    }
+
+    //kalau semua fild terisi
+    if (isAllValid) {
+        Edit();
+    }
+}
+
+//untuk menghide notifikasi validasi agar tidak muncul saat pertamakali di load
+function LoadHiddenNotification() {
+        $('#Name').siblings('span.error').css('visibility', 'hidden');
+        $('#Price').siblings('span.error').css('visibility', 'hidden');
+        $('#Stock').siblings('span.error').css('visibility', 'hidden');
+        $('#Suppliers').siblings('span.error').css('visibility', 'hidden');
+        $('#Suppliers').val("Choose Supplier"); // agar pada saat create ke 2 supplier combo box tidak kosong
+}
