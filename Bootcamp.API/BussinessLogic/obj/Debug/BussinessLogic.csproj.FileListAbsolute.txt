@@ -46,3 +46,19 @@ D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\bin\Debug\EntityFram
 D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
 D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.exe
 D:\Bootcamp22\Repo Pak Nur\Edit\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.pdb
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe.config
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.pdb
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\Common.exe
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\Core.exe
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.exe
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.dll
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\Common.pdb
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\Core.pdb
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.pdb
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.xml
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.exe
+D:\Bootcamp22\WEB.API\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.pdb

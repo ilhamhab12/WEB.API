@@ -25,8 +25,8 @@ function LoadIndexItem() {
                 html += '<td>' + val.Price + '</td>';
                 html += '<td>' + val.Stock + '</td>';
                 html += '<td>' + val.Suppliers.Name + '</td>';
-                html += '<td> <a href="#" class="fa fa-pencil" onclick="return GetById(' + val.Id + ')">Edit</a>';
-                html += ' | <a href="#" class="fa fa-trash" onclick="return Delete(' + val.Id + ')">Delete</a></td>';
+                html += '<td> <a href="#" class="fa fa-pencil" onclick="return GetById(' + val.Id + ')"></a>';
+                html += ' | <a href="#" class="fa fa-trash" onclick="return Delete(' + val.Id + ')"></a></td>';
                 html += '</tr>';
                 i++;
             });
